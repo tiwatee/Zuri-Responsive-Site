@@ -1,3 +1,3 @@
 # Zuri-Responsive-Site
 A responsive website
-Link: https://xenodochial-jang-a3106f.netlify.app/
+Link: https://tiwatee.github.io/Zuri-Responsive-Site/index.html
